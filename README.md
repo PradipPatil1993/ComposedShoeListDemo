@@ -1,4 +1,4 @@
-Basic Jetpakc Composed App with 2 Screen, Navigation, Favourite Functionality Added.
+Basic Jetpack Composed App with 2 Screen, Navigation, Favourite Functionality Added.
 
 ![Screenshot_1721223190](https://github.com/user-attachments/assets/1bcc523a-45d9-4111-85be-81bf954b283a)
 
